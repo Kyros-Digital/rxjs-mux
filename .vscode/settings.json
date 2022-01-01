@@ -1,0 +1,14 @@
+{
+  "cSpell.userWords": [], // only use words from .cspell.json
+  "cSpell.enabled": true,
+  "editor.formatOnSave": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#1C3323",
+    "titleBar.activeBackground": "#284731",
+    "titleBar.activeForeground": "#F7FBF8"
+  },
+  "javascript.format.semicolons": "remove",
+  "typescript.format.semicolons": "remove",
+}
